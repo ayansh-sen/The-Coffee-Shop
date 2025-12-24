@@ -32,4 +32,4 @@ _🛠️ Built With_
 * `time` and `random` libraries for realistic shop flow.
 
 ---
-*Created with ☕ by Ayansh Sen*
+*Created with ❤️ by Ayansh Sen*
